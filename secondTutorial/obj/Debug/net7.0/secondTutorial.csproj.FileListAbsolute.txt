@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\bin\Debug\net7.0\secondTutorial.exe
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\bin\Debug\net7.0\secondTutorial.deps.json
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\bin\Debug\net7.0\secondTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\bin\Debug\net7.0\secondTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\bin\Debug\net7.0\secondTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\refint\secondTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\secondTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\secondTutorial\obj\Debug\net7.0\ref\secondTutorial.dll

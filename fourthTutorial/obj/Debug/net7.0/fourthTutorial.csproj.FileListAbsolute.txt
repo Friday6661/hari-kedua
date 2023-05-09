@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\bin\Debug\net7.0\fourthTutorial.exe
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\bin\Debug\net7.0\fourthTutorial.deps.json
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\bin\Debug\net7.0\fourthTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\bin\Debug\net7.0\fourthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\bin\Debug\net7.0\fourthTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\refint\fourthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\fourthTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\fourthTutorial\obj\Debug\net7.0\ref\fourthTutorial.dll
