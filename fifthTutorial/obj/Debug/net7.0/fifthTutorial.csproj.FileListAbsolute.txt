@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\bin\Debug\net7.0\fifthTutorial.exe
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\bin\Debug\net7.0\fifthTutorial.deps.json
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\bin\Debug\net7.0\fifthTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\bin\Debug\net7.0\fifthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\bin\Debug\net7.0\fifthTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\refint\fifthTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\fifthTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\fifthTutorial\obj\Debug\net7.0\ref\fifthTutorial.dll

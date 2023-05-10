@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\tryArray\bin\Debug\net7.0\tryArray.exe
+D:\Jamal-bootcamp\hari-kedua\tryArray\bin\Debug\net7.0\tryArray.deps.json
+D:\Jamal-bootcamp\hari-kedua\tryArray\bin\Debug\net7.0\tryArray.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\tryArray\bin\Debug\net7.0\tryArray.dll
+D:\Jamal-bootcamp\hari-kedua\tryArray\bin\Debug\net7.0\tryArray.pdb
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.dll
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\refint\tryArray.dll
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.pdb
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\tryArray.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\tryArray\obj\Debug\net7.0\ref\tryArray.dll
