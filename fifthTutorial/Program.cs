@@ -10,7 +10,7 @@ static class Program {
 
 
         Console.WriteLine(cars.name);
-        //Console.WriteLine(sportcars._machineCode);
+        //Console.WriteLine(sportcars._machineCode); error
         Console.WriteLine(sportcars.name);
         Console.WriteLine(cars.yearProduct);
         Console.WriteLine(sportcars.yearProduct);
@@ -19,6 +19,13 @@ static class Program {
         sportcars.breaking();
         sportcars.sportCarsMethode();
         jeapcars.jeapCarsMethode();
+        sportcars.breaking();
+        jeapcars.breaking();
+
+
+        //Coba Child <----> parent
+        //sportCars sportcars02 = new Cars(); error
+
 
     }
 }

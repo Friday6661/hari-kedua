@@ -20,16 +20,18 @@ class Cars {
 
     //methode
     public void breaking() {
-        Console.WriteLine("Cars.breaking");
+        Console.WriteLine("Cars breaking");
     }
 
 }
 
 class jeapCars : Cars {
     public void jeapCarsMethode(){
-        Console.WriteLine("Cars.jeapCarsMethode");
+        Console.WriteLine("jeapCarsMethode");
     }
 }
+
+class familyCars : Cars {}
 
 class sportCars : Cars {
     public string variance;
@@ -39,8 +41,9 @@ class sportCars : Cars {
         this._machineCode = _machineCode;
     }
     public sportCars(string name) : base(name) {}
+    public sportCars() : base() {}
     
     public void sportCarsMethode() {
-        Console.WriteLine("sportCars.sportCarsMethode");
+        Console.WriteLine("sportCarsMethode");
     }
 }
