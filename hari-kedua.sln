@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eightTutorial", "eightTutor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "object-as-Return-Value", "object-as-Return-Value\object-as-Return-Value.csproj", "{963119CA-F414-45F0-9480-12764C262E7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coba-object-as-return", "coba-object-as-return\coba-object-as-return.csproj", "{630599AE-CC15-4C8F-8449-7AFDBF27C427}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{963119CA-F414-45F0-9480-12764C262E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963119CA-F414-45F0-9480-12764C262E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963119CA-F414-45F0-9480-12764C262E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
