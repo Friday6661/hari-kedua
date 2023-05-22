@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\bin\Debug\net7.0\seventhTutorial.exe
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\bin\Debug\net7.0\seventhTutorial.deps.json
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\bin\Debug\net7.0\seventhTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\bin\Debug\net7.0\seventhTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\bin\Debug\net7.0\seventhTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\refint\seventhTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\seventhTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\seventhTutorial\obj\Debug\net7.0\ref\seventhTutorial.dll

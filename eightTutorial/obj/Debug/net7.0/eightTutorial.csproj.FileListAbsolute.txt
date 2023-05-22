@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\bin\Debug\net7.0\eightTutorial.exe
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\bin\Debug\net7.0\eightTutorial.deps.json
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\bin\Debug\net7.0\eightTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\bin\Debug\net7.0\eightTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\bin\Debug\net7.0\eightTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\refint\eightTutorial.dll
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.pdb
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\eightTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\eightTutorial\obj\Debug\net7.0\ref\eightTutorial.dll

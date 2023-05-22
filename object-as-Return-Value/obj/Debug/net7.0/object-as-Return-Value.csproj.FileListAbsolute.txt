@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\bin\Debug\net7.0\object-as-Return-Value.exe
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\bin\Debug\net7.0\object-as-Return-Value.deps.json
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\bin\Debug\net7.0\object-as-Return-Value.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\bin\Debug\net7.0\object-as-Return-Value.dll
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\bin\Debug\net7.0\object-as-Return-Value.pdb
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.dll
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\refint\object-as-Return-Value.dll
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.pdb
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\object-as-Return-Value.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\object-as-Return-Value\obj\Debug\net7.0\ref\object-as-Return-Value.dll
