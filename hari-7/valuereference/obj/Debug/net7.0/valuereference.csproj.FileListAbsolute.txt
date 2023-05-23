@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\bin\Debug\net7.0\valuereference.exe
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\bin\Debug\net7.0\valuereference.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\bin\Debug\net7.0\valuereference.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\bin\Debug\net7.0\valuereference.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\bin\Debug\net7.0\valuereference.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\refint\valuereference.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\valuereference.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\valuereference\obj\Debug\net7.0\ref\valuereference.dll

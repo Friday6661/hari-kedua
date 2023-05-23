@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\bin\Debug\net7.0\struckclass.exe
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\bin\Debug\net7.0\struckclass.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\bin\Debug\net7.0\struckclass.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\bin\Debug\net7.0\struckclass.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\bin\Debug\net7.0\struckclass.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\refint\struckclass.dll
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\struckclass.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-7\struckclass\obj\Debug\net7.0\ref\struckclass.dll

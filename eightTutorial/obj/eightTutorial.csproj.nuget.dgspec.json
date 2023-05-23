@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj": {}
+    "d:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj": {}
   },
   "projects": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj": {
+    "d:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj",
+        "projectUniqueName": "d:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj",
         "projectName": "eightTutorial",
-        "projectPath": "D:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj",
+        "projectPath": "d:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\eightTutorial.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\obj\\",
+        "outputPath": "d:\\Jamal-bootcamp\\hari-kedua\\eightTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

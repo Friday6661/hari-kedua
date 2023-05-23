@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj": {}
+    "d:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj": {}
   },
   "projects": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj": {
+    "d:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj",
+        "projectUniqueName": "d:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj",
         "projectName": "seventhTutorial",
-        "projectPath": "D:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj",
+        "projectPath": "d:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\seventhTutorial.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\obj\\",
+        "outputPath": "d:\\Jamal-bootcamp\\hari-kedua\\seventhTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

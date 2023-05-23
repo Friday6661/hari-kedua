@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "object-as-Return-Value", "o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coba-object-as-return", "coba-object-as-return\coba-object-as-return.csproj", "{630599AE-CC15-4C8F-8449-7AFDBF27C427}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hari-7", "hari-7", "{C466DC90-A30E-45D7-BEBB-F5924BA7A199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struckclass", "hari-7\struckclass\struckclass.csproj", "{2E45FDC6-067F-425B-B8AB-488958FC9B98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,12 @@ Global
 		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630599AE-CC15-4C8F-8449-7AFDBF27C427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E45FDC6-067F-425B-B8AB-488958FC9B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E45FDC6-067F-425B-B8AB-488958FC9B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E45FDC6-067F-425B-B8AB-488958FC9B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E45FDC6-067F-425B-B8AB-488958FC9B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E45FDC6-067F-425B-B8AB-488958FC9B98} = {C466DC90-A30E-45D7-BEBB-F5924BA7A199}
 	EndGlobalSection
 EndGlobal

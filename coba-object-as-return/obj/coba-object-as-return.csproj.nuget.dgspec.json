@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj": {}
+    "d:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj": {}
   },
   "projects": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj": {
+    "d:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj",
+        "projectUniqueName": "d:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj",
         "projectName": "coba-object-as-return",
-        "projectPath": "D:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj",
+        "projectPath": "d:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\coba-object-as-return.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\obj\\",
+        "outputPath": "d:\\Jamal-bootcamp\\hari-kedua\\coba-object-as-return\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
