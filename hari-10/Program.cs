@@ -25,5 +25,6 @@ public class Program
         Console.WriteLine("================================================================");
 
         scrumBoard.DisplayTasks();
+        Console.WriteLine("================================================================");
     }
 }
