@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-10\bin\Debug\net7.0\hari-10.exe
+D:\Jamal-bootcamp\hari-kedua\hari-10\bin\Debug\net7.0\hari-10.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-10\bin\Debug\net7.0\hari-10.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-10\bin\Debug\net7.0\hari-10.dll
+D:\Jamal-bootcamp\hari-kedua\hari-10\bin\Debug\net7.0\hari-10.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.dll
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\refint\hari-10.dll
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\hari-10.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-10\obj\Debug\net7.0\ref\hari-10.dll
