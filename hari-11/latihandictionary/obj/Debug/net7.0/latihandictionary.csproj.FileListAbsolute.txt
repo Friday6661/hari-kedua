@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\bin\Debug\net7.0\latihandictionary.exe
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\bin\Debug\net7.0\latihandictionary.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\bin\Debug\net7.0\latihandictionary.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\bin\Debug\net7.0\latihandictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\bin\Debug\net7.0\latihandictionary.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\refint\latihandictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\latihandictionary.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\latihandictionary\obj\Debug\net7.0\ref\latihandictionary.dll
