@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\bin\Debug\net7.0\dictionary.exe
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\bin\Debug\net7.0\dictionary.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\bin\Debug\net7.0\dictionary.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\bin\Debug\net7.0\dictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\bin\Debug\net7.0\dictionary.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\refint\dictionary.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\dictionary.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\dictionary\obj\Debug\net7.0\ref\dictionary.dll

@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\bin\Debug\net7.0\ArrayList3.exe
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\bin\Debug\net7.0\ArrayList3.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\bin\Debug\net7.0\ArrayList3.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\bin\Debug\net7.0\ArrayList3.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\bin\Debug\net7.0\ArrayList3.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\refint\ArrayList3.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ArrayList3.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\ArrayList3\obj\Debug\net7.0\ref\ArrayList3.dll

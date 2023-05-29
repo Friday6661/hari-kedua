@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\bin\Debug\net7.0\arraylist.exe
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\bin\Debug\net7.0\arraylist.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\bin\Debug\net7.0\arraylist.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\bin\Debug\net7.0\arraylist.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\bin\Debug\net7.0\arraylist.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\refint\arraylist.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\arraylist.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\arraylist\obj\Debug\net7.0\ref\arraylist.dll

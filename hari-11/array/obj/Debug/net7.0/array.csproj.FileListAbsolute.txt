@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\bin\Debug\net7.0\array.exe
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\bin\Debug\net7.0\array.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\bin\Debug\net7.0\array.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\bin\Debug\net7.0\array.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\bin\Debug\net7.0\array.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\refint\array.dll
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\array.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-11\array\obj\Debug\net7.0\ref\array.dll
