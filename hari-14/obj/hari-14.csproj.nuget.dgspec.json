@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj": {}
+    "d:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj": {}
   },
   "projects": {
-    "D:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj": {
+    "d:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj",
+        "projectUniqueName": "d:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj",
         "projectName": "hari-14",
-        "projectPath": "D:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj",
+        "projectPath": "d:\\Jamal-bootcamp\\hari-kedua\\hari-14\\hari-14.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Jamal-bootcamp\\hari-kedua\\hari-14\\obj\\",
+        "outputPath": "d:\\Jamal-bootcamp\\hari-kedua\\hari-14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

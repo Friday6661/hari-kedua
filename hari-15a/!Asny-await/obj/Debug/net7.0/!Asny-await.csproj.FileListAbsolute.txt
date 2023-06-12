@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\bin\Debug\net7.0\!Asny-await.exe
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\bin\Debug\net7.0\!Asny-await.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\bin\Debug\net7.0\!Asny-await.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\bin\Debug\net7.0\!Asny-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\bin\Debug\net7.0\!Asny-await.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\refint\!Asny-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\!Asny-await.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\!Asny-await\obj\Debug\net7.0\ref\!Asny-await.dll

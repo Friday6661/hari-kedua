@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\bin\Debug\net7.0\Asnyc-await.exe
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\bin\Debug\net7.0\Asnyc-await.deps.json
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\bin\Debug\net7.0\Asnyc-await.runtimeconfig.json
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\bin\Debug\net7.0\Asnyc-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\bin\Debug\net7.0\Asnyc-await.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.AssemblyInfo.cs
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\refint\Asnyc-await.dll
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.pdb
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\Asnyc-await.genruntimeconfig.cache
+D:\Jamal-bootcamp\hari-kedua\hari-15a\Asnyc-await\obj\Debug\net7.0\ref\Asnyc-await.dll
