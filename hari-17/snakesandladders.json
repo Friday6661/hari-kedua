@@ -1,0 +1,30 @@
+{
+  "snake": {
+    "snake1": {
+      "head": 99,
+      "tail": 1
+    },
+    "snake2": {
+      "head": 97,
+      "tail": 35
+    },
+    "snake3": {
+      "head": 96,
+      "tail": 45
+    }
+  },
+  "ladder": {
+    "ladder1": {
+      "bottom": 3,
+      "top": 98
+    },
+    "ladder2": {
+      "bottom": 4,
+      "top": 65
+    },
+    "ladder3": {
+      "bottom": 6,
+      "top": 90
+    }
+  }
+}
